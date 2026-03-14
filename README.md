@@ -1,4 +1,4 @@
-# SenatorovAI — Школа Data Science и Энциклопедия Data Science
+# SenatorovAI — Школа Data Science и Энциклопедия 
 
 🌐 **Сайт проекта:**
 [https://senatorovai.com](https://senatorovai.com)
